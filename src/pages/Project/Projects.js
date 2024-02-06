@@ -21,7 +21,8 @@ const Projects = ({ id }) => {
                             <div className="content">
                                 <p style={{ marginTop: '5px' }}>This project is an Meesho Clone Website developed as part of the Newton School SkillBuild.
                                 </p>
-                                <a href="https://github.com/shadazam08/meesho-colone/blob/master/README.md" target='_blank'>Read More</a>
+                                <a href="https://github.com/shad-azam/meesho-colone/blob/main/README.md" target='_blank'>Read More</a>
+                                <a href="https://meesho-colone.vercel.app/" target='_blank'>Live Demo</a>
                             </div>
                         </div>
                     </div>
